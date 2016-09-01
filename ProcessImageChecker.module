@@ -27,7 +27,7 @@ class ProcessImageChecker extends Process implements Module, ConfigurableModule 
 			'summary' => 'Check image sizes',
 			'version' => '0.0.3',
 			'author'    => 'Rupert Dunk',
-			'href' => 'https://github.com/rdunk',
+			'href' => 'https://github.com/rdunk/ProcessImageChecker',
 			'icon' => 'picture-o', 
 			);
 	}
