@@ -1,4 +1,4 @@
-# ProcessImageChecker
+# ProcessImageChecker Module for ProcessWire2.+
 
 Processwire module for identifying images which exceed a specific filesize. Useful for managing sites with a large number of images, or if populating or syncing content with an external database.
 
